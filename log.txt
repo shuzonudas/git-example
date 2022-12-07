@@ -1,0 +1,9 @@
+- initial comment
+- Save in the first round.
+
+************** Todo *******************
+- 1st commit - file creation.
+- 2nd commit - first two lines.
+- 3rd commit - todo list.
+- 4th commit - added content on report-1 file
+- 5th commit - added gitignor filr 
